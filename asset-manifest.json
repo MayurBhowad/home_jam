@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/home_jam/static/css/main.4c0c8101.chunk.css",
+    "main.js": "/home_jam/static/js/main.0bb1ee05.chunk.js",
+    "main.js.map": "/home_jam/static/js/main.0bb1ee05.chunk.js.map",
+    "runtime-main.js": "/home_jam/static/js/runtime-main.8d42dec2.js",
+    "runtime-main.js.map": "/home_jam/static/js/runtime-main.8d42dec2.js.map",
+    "static/js/2.64bb4b28.chunk.js": "/home_jam/static/js/2.64bb4b28.chunk.js",
+    "static/js/2.64bb4b28.chunk.js.map": "/home_jam/static/js/2.64bb4b28.chunk.js.map",
+    "static/js/3.73ddd915.chunk.js": "/home_jam/static/js/3.73ddd915.chunk.js",
+    "static/js/3.73ddd915.chunk.js.map": "/home_jam/static/js/3.73ddd915.chunk.js.map",
+    "index.html": "/home_jam/index.html",
+    "static/css/main.4c0c8101.chunk.css.map": "/home_jam/static/css/main.4c0c8101.chunk.css.map",
+    "static/js/2.64bb4b28.chunk.js.LICENSE.txt": "/home_jam/static/js/2.64bb4b28.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/home_jam/static/media/Rectangle-M-157.bca20463.png",
+    "static/media/logo.6ce24c58.svg": "/home_jam/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d42dec2.js",
+    "static/js/2.64bb4b28.chunk.js",
+    "static/css/main.4c0c8101.chunk.css",
+    "static/js/main.0bb1ee05.chunk.js"
+  ]
+}
